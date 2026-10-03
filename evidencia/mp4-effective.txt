@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< com.academia:cuenta-bancaria-maven >-----------------
+[INFO] Building cuenta-bancaria-maven 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- help:3.5.2:effective-pom (default-cli) @ cuenta-bancaria-maven ---
+[INFO] Effective-POM written to: /home/rodrigo/cuenta-bancaria-maven/evidencia/mp4-effective-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.435 s
+[INFO] Finished at: 2026-10-03T17:51:45-06:00
+[INFO] ------------------------------------------------------------------------
